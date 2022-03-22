@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title_SpacerProject.unity
+    guid: dbf096a97feb0b44b836dfe5e887c848
+  - enabled: 1
+    path: Assets/Scenes/Stage0.unity
+    guid: 4c00f50d4f2cd2949936ab5842300b94
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: c8d6faa2c266a5f40b4283aeb3b53cef
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: 2ab373c604e93a1428369d2665be1814
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: 1ec90c020b1d6034192ad59c1a7a0847
+  - enabled: 1
+    path: Assets/Scenes/Stage4.unity
+    guid: 840ccf7cffad0d147bd7f79bc1e247e0
+  - enabled: 1
+    path: Assets/Scenes/BossMode1.unity
+    guid: 96ae19ee26d18be4bbcb1b2ad21ce0c2
+  - enabled: 1
+    path: Assets/Scenes/BonusLevel.unity
+    guid: bab039268cee24245a9fa1f758d46fdf
+  - enabled: 1
+    path: Assets/Scenes/Industrial1.unity
+    guid: 0b57b23c29ab5ef4ea3911d2bb18e0f9
+  - enabled: 1
+    path: Assets/Scenes/Industrial2.unity
+    guid: 98482e755d7665a40871fcb48d8cb248
+  - enabled: 1
+    path: Assets/Scenes/Industrial3.unity
+    guid: d2ca7aea7fb0aad439ea2e0605725f9a
+  - enabled: 1
+    path: Assets/Scenes/Industrial4.unity
+    guid: d0552b7a105a18143a474153f281055d
+  - enabled: 1
+    path: Assets/Scenes/BossMode2.unity
+    guid: 3f4769a5eb20b5f49a2cb276c7c51ec0
+  - enabled: 1
+    path: Assets/Scenes/Natural1.unity
+    guid: ba6114c26b0cd104084b8d0d8a97f386
+  - enabled: 1
+    path: Assets/Scenes/Natural2.unity
+    guid: 86fb8429834ab6b418da783c70b307e5
+  - enabled: 1
+    path: Assets/Scenes/Natural3.unity
+    guid: 2a4c9c7b5c888a94b983e0c4029e0d90
+  - enabled: 1
+    path: Assets/Scenes/Natural4.unity
+    guid: c858b54c102513249ac2f3ecf963f951
+  - enabled: 1
+    path: Assets/Scenes/BossMode3.unity
+    guid: ebe7e1bb0cbe46b41adbf1149929257e
+  - enabled: 1
+    path: Assets/Scenes/Spook 1.unity
+    guid: ad743f0b45d7ffe4ebe096769f9bf52f
+  - enabled: 1
+    path: Assets/Scenes/Spook 2.unity
+    guid: 04a038e53c1d483429d456fa1fcfa96b
+  - enabled: 1
+    path: Assets/Scenes/Spook 3.unity
+    guid: 9d069fd4647064c499b83cf1bd573181
+  - enabled: 1
+    path: Assets/Scenes/Spook 4.unity
+    guid: bdfc19b27be186c43885489c7873876d
+  - enabled: 1
+    path: Assets/Scenes/BossMode4.unity
+    guid: 844895bbd22baf9409a1e4a7c9412bf2
+  - enabled: 1
+    path: Assets/Scenes/Highscore.unity
+    guid: a452f41eb441500478b18d69ef414d9a
+  - enabled: 1
+    path: Assets/Scenes/EnduranceLevel.unity
+    guid: f0f9667defdd9ce4689dae08fcbea9b9
+  - enabled: 1
+    path: Assets/Scenes/HookShotLevel.unity
+    guid: 9ff6b694a4f725a4e9b3e6957b8d761a
+  - enabled: 1
+    path: Assets/Scenes/TimerLevel.unity
+    guid: 1a5faa397bb7fc74382e7b40081109f9
+  - enabled: 1
+    path: Assets/Scenes/BossM1.unity
+    guid: 4144d2e863e01614e9272c601a671fa6
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 14b382e93c3ad874c952d562be0d162b
+  - enabled: 1
+    path: Assets/Scenes/TimerLevel - Medium.unity
+    guid: f1408b4f4fc84344ea0b314afe911a0e
+  - enabled: 1
+    path: Assets/Scenes/TimerLevel - Hard.unity
+    guid: 89bd6e9944987224e9e39014d05e392f
+  - enabled: 1
+    path: Assets/Scenes/EnduranceLevel-Medium.unity
+    guid: cf00e63592f83af419cb1f60b08091e8
+  - enabled: 1
+    path: Assets/Scenes/EnduranceLevel-Hard.unity
+    guid: ed942f3907ed6824b83f858e8234bdd7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: 16016a1775f416a4eae8bfb74ae29935
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: c697db463a60c224b8862a3cbdd8ecec
+  m_configObjects: {}
